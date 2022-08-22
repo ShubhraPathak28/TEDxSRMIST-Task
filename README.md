@@ -1,4 +1,4 @@
-# TEDxSRMIST-Task
+# TEDxSRMIST Task
 Recruitment task of TEDxSRMIST. Making a webpage for an NGO.
 ## Languages used:-
 * HTML
