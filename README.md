@@ -1,5 +1,5 @@
 # Geeks-for-Geeks-Task
-Recruitment task of Geeks for Geeks club. Making a responsive webpage for an NGO.
+Recruitment task of Geeks for Geeks club. Making a webpage for an NGO.
 ## Languages used:-
 * HTML
 * CSS
