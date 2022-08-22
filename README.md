@@ -4,4 +4,4 @@ Recruitment task of TEDxSRMIST. Making a webpage for an NGO.
 * HTML
 * CSS
 ## Live website:-
-https://shubhrapathak28.github.io/Geeks-for-Geeks-Task/
+https://shubhrapathak28.github.io/TEDxSRMIST-Task/
